@@ -3,7 +3,7 @@
 // LCLCrashlyticsLog.h
 //
 //
-// Copyright (c) 2012 Daniel Schnelle <daniel.schneller@centerdevice.com>
+// Copyright (c) 2012 Daniel Schneller <daniel.schneller@centerdevice.com>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
