@@ -45,6 +45,8 @@
 //   2009-02-01 12:38:32.799 Example[4964:10b] D c3:main.m:36:-[Class method] M3
 //
 
+// This needs to be set up in your project as laid out in the Crashlytics documentation
+#import <Crashlytics/Crashlytics.h>
 
 //
 // Integration with LibComponentLogging Core.
